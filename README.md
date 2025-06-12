@@ -1,6 +1,7 @@
-# NodeScrape
+# Site scraper
+Firebase Cloud Functions project for scraping metadata and images from web pages, including Instagram, using Node.js.
 
-A Firebase Cloud Functions project for scraping metadata and images from web pages, including Instagram, using Node.js.
+> **Note:** This project is for educational/demo purposes. For production use, ensure all credentials are secured and scraping complies with target site terms of service.
 
 ## Features
 
@@ -16,7 +17,7 @@ A Firebase Cloud Functions project for scraping metadata and images from web pag
 
 ## Setup & Installation
 
-1. **Clone the repository:**
+1. **Clone the repository**
 
 2. **Install Firebase CLI:**
    ```sh
@@ -58,5 +59,3 @@ A Firebase Cloud Functions project for scraping metadata and images from web pag
 - [puppeteer](https://www.npmjs.com/package/puppeteer)
 - [cors](https://www.npmjs.com/package/cors)
 
-
-> **Note:** This project is for educational/demo purposes. For production use, ensure all credentials are secured and scraping complies with target site terms of service.
